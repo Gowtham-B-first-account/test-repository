@@ -5,3 +5,7 @@ application integrated with Cloud such as Splunk and Datadog.
 ✓ Experience with tool such as JIRA for deployment, Incidents and Changes in Service Now. 
 ✓ Participated in DR activities, bringing up the infrastructure and application in AWS, 
 validating the servers and application in-case any failover happens
+
+
+
+My first git hub ----
